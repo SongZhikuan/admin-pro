@@ -1,0 +1,1 @@
+import{D as r,r as a,d as s,o,c,i}from"./index-8e4fc62f.js";const n={style:{height:"100%"}},_=i({name:"watermark"}),k=Object.assign(_,{setup(l){const e=r({text:"志宽聊前端",textColor:"rgba(0,0,0,0.6)"});return(d,m)=>{const t=a("waterMarker");return s((o(),c("div",n,null,512)),[[t,e]])}}});export{k as default};
